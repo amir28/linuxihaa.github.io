@@ -27,7 +27,7 @@ disqus_shortname: linuxihaa
 imgurl: /assets/images
 anetwork: '<script type="text/javascript"> ;!( function( w, d ) { "use strict"; var ad = { user: "ID", width: 468, height: 60, id: "anetwork-" + ~~( Math.random() * 999999 ) }, h = d.head || d.getElementsByTagName( "head" )[ 0 ], s = location.protocol + "//static-cdn.anetwork.ir/aw/aw.js"; if ( typeof w.anetworkParams != "object" ) w.anetworkParams = {}; d.write( "<div id=\"" + ad.id + "\" style=\"display: inline-block\"></div>" ); w.anetworkParams[ ad.id ] = ad; d.write( "<script type=\"text/javascript\" src=\"" + s + "\" async></scri" + "pt>" ); })( this, document ); </script>'
 github_comments:
-  repo: gituser/gitrepo
+  repo: amir28/linuxihaa.github.io
   branch: master
   comment_template: comments.html
   comments_template: comments.html

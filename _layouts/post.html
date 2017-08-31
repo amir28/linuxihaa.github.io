@@ -62,6 +62,19 @@
 				{% endif %}
 			</div>
 		</footer>
+		
+		
+		<!-- Top level comments -->
+{% responses %}
+  {% response author="Steve" email="amir28.ns@gmail.com" date="2016-11-23 16:08:32" param="value" %}
+    This is a comment
+  {% endresponse %}
+  {% response author="Steve" email="amir28.ns@gmail.com" date="2016-11-23 16:08:32" param="value" %}
+    So is this
+  {% endresponse %}
+{% endresponses %}
+		
+		
 	</article>
 	{% include disqus.html %}
 {% include footer.html %}

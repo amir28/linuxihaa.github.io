@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
+gem "jekyll-github-comments", :path => File.expand_path("test", __dir__)
 gemspec
-gem 'jekyll-github-comments', :git => 'git://github.com:simlrh/jekyll-github-comments.git
